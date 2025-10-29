@@ -98,7 +98,7 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 python
 # Run the analysis
 ```bash
-python walkability_analysis.py
+python src/__init__.py
 ```
 
 📊 Sample Results
