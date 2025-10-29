@@ -1,0 +1,6 @@
+suburb,walk_score,property_value,amenity_count,distance_to_transit,livability_index
+Fortitude Valley,92,850000,45,0.2,99
+South Brisbane,88,870000,40,0.3,95
+Indooroopilly,72,780000,38,0.5,97
+Chermside,65,650000,30,0.7,97
+Springfield,45,510000,22,1.4,94
